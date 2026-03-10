@@ -7,3 +7,4 @@ With the most imp feature's :- The Ai era, with User-Psychology creation! useing
                                 and For freinds we are Announcing : Friend Circle Ai.
 Friend Cricle Ai : to manintain your presence! your personal work! and attain massages! like Siri in IPhone, as we are trying to integrate it into app itself! that's the main aim.
 And using it in Social searches, and much more I can't talk more about it for now this is enough!
+For frontend we are going to use ReactNative.
